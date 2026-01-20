@@ -1,0 +1,7 @@
+{
+  "name": "灵动指绘 (FingerFlow AI)",
+  "description": "一个由 Gemini 驱动的智能绘图应用。开启摄像头，捏合手指即可隔空作画。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
